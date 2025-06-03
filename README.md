@@ -1,6 +1,6 @@
 # Hi, I'm Niharika B S 👋
 
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" alt="DevOps GIF)">
+<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" alt="DevOps GIF">
 
 ## About Me
 
