@@ -1,6 +1,4 @@
-# Hi, I'm Niharika 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=NiharikaBS&color=brightgreen)
+# Hi, I'm Niharika B S 👋
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -35,17 +33,14 @@ Currently seeking **remote** and **part-time** opportunities in DevOps or Cloud 
 
 ---
 
-## 📈 GitHub Stats
-
-![Niharika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiharikaBS&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharikabs/)
 
 ---
 
-⭐️ Thanks for stopping by!
+<div align="right">
+  ![Profile Views](https://komarev.com/ghpvc/?username=NiharikaBS&color=brightgreen)
+</div>
 
+⭐️ Thanks for stopping by!
