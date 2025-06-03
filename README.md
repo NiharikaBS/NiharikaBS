@@ -2,8 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NiharikaBS&color=brightgreen)
 
-| ![DevOps Engineer](https://media.giphy.com/media/3o7btXJQmL9wPjvD9K/giphy.gif) |  
-|:--:|  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## About Me
 
