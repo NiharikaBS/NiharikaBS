@@ -1,4 +1,4 @@
-# Hi, I'm Niharika B S 👋
+# Hi, I'm Niharika 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NiharikaBS&color=brightgreen)
 
