@@ -8,7 +8,7 @@ AWS Certified Solutions Architect Associate | DevOps & Linux Enthusiast | Passio
 
 Hi! I’m Niharika, an AWS Certified Solutions Architect Associate with hands-on experience in cloud infrastructure, Linux system administration, and DevOps automation. I’m passionate about building scalable, automated solutions and continuously learning new technologies.
 
-Currently seeking **remote** and **part-time** opportunities in DevOps or Cloud roles.
+Currently seeking opportunities in DevOps or Cloud roles.
 
 ---
 
